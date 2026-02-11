@@ -4,3 +4,6 @@
 
 ##### Installing the R package
 * devtools::install_github("ash-res/efficient.mte")
+
+##### Toy example
+https://ash-res.github.io/efficient.mte/
